@@ -170,5 +170,5 @@ Cybersecurity Intern,Networkwalks(Batch B084C)
 
 LinkedIn: www.linkedin.com/in/tabia-babar
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Tabia-Babar
 
